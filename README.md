@@ -5,7 +5,7 @@ This project was created within the scope of the Human Computer Interaction disc
 | NMec | Name | email |
 |--:|---|---|
 | 91359 | Juan Lessa | juanvlessa@ua.pt |
-| 93310 | Pedro Abreu |  |
+| 93240 | Pedro Abreu | pedro.abreu@ua.pt |
 | 93097 | João Gameiro | joao.gameiro@ua.pt |
 
 ## Introduction​
