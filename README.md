@@ -6,7 +6,7 @@ This project was created within the scope of the Human Computer Interaction disc
 |--:|---|---|
 | 91359 | Juan Lessa | juanvlessa@ua.pt |
 | 93310 | Pedro Abreu |  |
-| 93310 | João Gameiro |  |
+| 93097 | João Gameiro | joao.gameiro@ua.pt |
 
 ## Introduction​
 * Music plays a very important role in people's lives, and it can be though for musicians to share their music.​
